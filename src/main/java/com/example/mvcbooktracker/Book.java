@@ -9,17 +9,7 @@ public class Book {
 	private String author;
 	private int yearOfRelease;
 	private int rating;
-	/*
-	//Constructor
-	public Book(String name, String description, 
-				String author, int yearOfRelease, int rating) {
-		this.name = name;
-		this.description = description;
-		this.author = author;
-		this.yearOfRelease = yearOfRelease;
-		this.rating = rating;
-	}
-	*/
+	
 	//Getter Functions
 	public String getName() {
 		return name;
